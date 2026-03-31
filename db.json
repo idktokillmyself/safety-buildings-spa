@@ -1,0 +1,37 @@
+{
+  "inspections": [
+    {
+      "id": "2",
+      "buildingName": "Бизнес-центр «Высота»",
+      "address": "пр. Мира, 10",
+      "safetyScore": 67,
+      "status": "Требует доработок",
+      "date": "2025-03-10"
+    },
+    {
+      "buildingName": "Школа 43",
+      "address": "ул. Ельцовская 31",
+      "safetyScore": 30,
+      "status": "Запланирована",
+      "date": "2026-04-25",
+      "id": "2sx2JuXV-VA"
+    },
+    {
+      "buildingName": "Тинькофф Банк",
+      "address": "Нарымская 23",
+      "safetyScore": 100,
+      "status": "Пройдена",
+      "date": "2026-03-31",
+      "id": "EB3dftI72oo"
+    },
+    {
+      "buildingName": "Rostics",
+      "address": "Красныйы проспект 12",
+      "safetyScore": 72,
+      "status": "Требует доработок",
+      "date": "2026-03-31",
+      "id": "swQyO5Y8LvY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

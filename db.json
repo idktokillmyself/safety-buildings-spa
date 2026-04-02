@@ -25,12 +25,12 @@
       "id": "EB3dftI72oo"
     },
     {
-      "buildingName": "Rostics",
-      "address": "Красныйы проспект 12",
-      "safetyScore": 72,
-      "status": "Требует доработок",
-      "date": "2026-03-31",
-      "id": "swQyO5Y8LvY"
+      "buildingName": "7 корпус нгту",
+      "address": "Немировича Данченко 228",
+      "safetyScore": 100,
+      "status": "Пройдена",
+      "date": "2026-04-03",
+      "id": "dNJaWk8P9RU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

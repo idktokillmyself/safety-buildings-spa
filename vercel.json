@@ -7,6 +7,10 @@
     {
       "source": "/inspections/:id",
       "destination": "https://safety-buildings-api.onrender.com/inspections/:id"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
     }
   ]
 }

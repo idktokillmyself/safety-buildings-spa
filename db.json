@@ -1,37 +1,44 @@
 {
   "inspections": [
     {
-      "id": "2",
-      "buildingName": "Бизнес-центр «Высота»",
-      "address": "пр. Мира, 10",
-      "safetyScore": 67,
+      "buildingName": "Мой Дома",
+      "address": "ул. Холодильная 17",
+      "safetyScore": 100,
+      "status": "Пройдена",
+      "date": "2026-04-06",
+      "lat": 55.050504,
+      "lon": 82.884245,
+      "id": 4
+    },
+    {
+      "buildingName": "НГТУ",
+      "address": "ул. Немировича-Данченко, 136",
+      "safetyScore": 90,
       "status": "Требует доработок",
-      "date": "2025-03-10"
+      "date": "2026-04-06",
+      "lat": 54.986634,
+      "lon": 82.906103,
+      "id": 5
     },
     {
-      "buildingName": "Школа 43",
-      "address": "ул. Ельцовская 31",
-      "safetyScore": 30,
-      "status": "Запланирована",
-      "date": "2026-04-25",
-      "id": "2sx2JuXV-VA"
-    },
-    {
-      "buildingName": "Тинькофф Банк",
-      "address": "Нарымская 23",
+      "buildingName": "Спортзал \"Апельсин\"",
+      "address": "Нарымская ул., 37",
       "safetyScore": 100,
       "status": "Пройдена",
-      "date": "2026-03-31",
-      "id": "EB3dftI72oo"
+      "date": "2026-03-24",
+      "lat": 55.051339,
+      "lon": 82.896049,
+      "id": 6
     },
     {
-      "buildingName": "7 корпус нгту",
-      "address": "Немировича Данченко 228",
+      "buildingName": "Zажигалка",
+      "address": "ул. Гоголя, 43/1",
       "safetyScore": 100,
       "status": "Пройдена",
-      "date": "2026-04-03",
-      "id": "dNJaWk8P9RU"
+      "date": "2026-01-12",
+      "lat": 55.044361,
+      "lon": 82.939222,
+      "id": 7
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
